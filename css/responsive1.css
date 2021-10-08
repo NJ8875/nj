@@ -1,0 +1,77 @@
+body{
+    /* background-color: red; */
+}
+/* .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    /* background-color: yellow; */
+.aboutme img {
+    width: 6rem;
+    height: 6rem;
+}
+.box2 ul li {
+    font-size: 0.75rem;
+}
+#Heading {
+    font-size: 4rem;
+}
+.navbar li a {
+    font-size: .97rem;
+}
+#tag {
+    font-size: 1.2rem;
+    
+}
+.aboutme h2 {
+    font-size: 1.6rem;
+}
+.about {
+    font-size: .8rem;
+}
+.skills h2 {
+    font-size: 1.6rem;
+}
+.skills h3 {
+    font-size: .8rem;
+    text-align: center;
+}
+.skills img {
+    width: 6rem;
+    height: 6rem;
+    
+}
+.item p {
+    font-size: .8rem;
+}
+.contact h2 {
+    font-size: 1.6rem;
+}
+.container2 form label {
+    font-size: .8rem;
+    
+}
+.container2 input, textarea {
+    width: 100%;
+    border-radius: 6px;
+    padding: 3px 3px;
+    padding-left: 9px;
+    margin: 4px 4px;
+    font-size: .8rem;
+    border: 2px solid black;
+    
+}
+#box2 img {
+    width: 3rem;
+    height: 3rem;
+}
+.footer p {
+    
+    font-size: 1rem;
+    
+}
+
+
+
+

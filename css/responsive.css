@@ -1,0 +1,88 @@
+body{
+    /* background-color: red; */
+}
+.navbar{
+    flex-direction: column;
+}
+.navbar li a {
+    
+    padding: 0px 2px;
+    margin: 0px 5px;
+    font-size: 1.7rem;
+}
+.navbar img {
+    width: 56px;
+    margin-left: 14px;
+    margin-top: 20px;
+}
+#Heading {
+    
+    font-size: 5rem;
+    
+}
+#tag {
+    
+    font-size: 1.3rem;
+    margin: 0px;
+}
+.skillbox {
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+.container2 form {
+    width: 93%;
+    
+}
+.container2 {
+    width: 96%;
+    /* background-color: red; */
+}
+.aboutme h2 {
+    
+    font-size: 2.6rem;
+}
+.aboutme img {
+    width: 9rem;
+    height: 8rem;
+}
+.box2 ul li {
+    font-size: .9rem;
+}
+.about {
+    
+    font-size: 1rem;
+}
+.skills h2 {
+    font-size: 2.6rem;
+    margin-bottom: 0px;
+}
+.skills h3 {
+    font-size: 1rem;
+    
+}
+.skills img {
+    width: 8rem;
+    height: 8rem;
+    margin: 11px 0px;
+}
+.item p {
+    font-size: 1.1rem;
+}
+.contact h2 {
+    font-size: 2.6rem;
+}
+#box2 img {
+    width: 4rem;
+    height: 5rem;
+}
+.footer p {
+   
+    font-size: 1rem;
+   
+}
+
+
